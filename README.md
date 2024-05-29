@@ -16,8 +16,10 @@
 ![CSS](https://img.shields.io/badge/CSS-595858?style=flat&logo=css)
 
 ### Testing Documentation
-* [Bug Reports](https://docs.google.com/spreadsheets/d/1cVVsz-GNR8ZG1tpHKU-_bMon0kPW7Q7S75GBx2bWKu0/edit?usp=sharing)
+* [Test Plan](https://docs.google.com/spreadsheets/d/1SZNlzllUVF-MgK6V0vY0NU5g0f6T6Yk0XjDTykxuXd8/edit?usp=sharing)
+* [Decomposition](https://miro.com/app/board/uXjVNKK4hNU=/?share_link_id=778697349408)
 * [Checklists](https://docs.google.com/spreadsheets/d/1e9hRPydjfdulTibpBlNriMqyj6uVwN6sSsflH0AH7Y4/edit?usp=sharing)
 * [Test Cases](https://docs.google.com/spreadsheets/d/1nBwstb1ixcxBtEhHOBPnslPZMkZVGZRCGAVD3vCt46M/edit?usp=sharing)
+* [Bug Reports](https://docs.google.com/spreadsheets/d/1cVVsz-GNR8ZG1tpHKU-_bMon0kPW7Q7S75GBx2bWKu0/edit?usp=sharing)
 * [Postman Collections](https://www.postman.com/lunar-meteor-259693/workspace/functional-testing-course/collection/23451816-dc2d0aca-b317-41af-85d6-c3f2bc867d8a?action=share&creator=23451816)
 * [SQL Queries](https://drive.google.com/drive/folders/1KGik13CJE478-7E382fSgikrI6JZNovU?usp=sharing)
